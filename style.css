@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Varela+Round&display=swap');
+
 body {
-    font-family: Helvetica, Arial, sans;
-    color: #eee;
-    background-color: #111;
+    font-family: 'Varela Round', sans;
+    color: #505050;
+    background-color: LightCyan;
     margin: 15%;
     font-size: 24pt;
 }
@@ -25,7 +27,7 @@ li a {
 
 a {
     text-decoration: none;
-    color: #aaf;
+    color: DeepPink;
 }
 
 a:hover {
