@@ -26,6 +26,7 @@
 /* elements */
 body {
     font-family: Chough, sans;
+    line-height: 140%;
     margin: 0; /* no gap between top and navbar */
 }
 
@@ -77,5 +78,5 @@ h1 {
 }
 
 #content p {
-    font-size: 18pt;
+    font-size: 14pt;
 }
