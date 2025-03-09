@@ -8,6 +8,9 @@ These are some fonts:
 - Helvetica
 - Calibri
 - Comic Sans
+<!-- TODO: figure out how to get live resize in type tester -->
+<!-- TODO: make it more apparent that text field is editable -- look at cues that adobe's type tester uses -->
+<!-- TODO: show glyph inventory -->
 
 I participated in [Type West](https://typewest.letterformarchive.org).
 
@@ -16,12 +19,15 @@ I participated in [Type West](https://typewest.letterformarchive.org).
 <script>
 let node = document.getElementById("demo");
 let options = {
-  initialText: "the quick brown fox jumps over the lazy dog",
+  initialText: "try me on, i’m very you",
   order: [["fontfamily", "fontsize", "opentype"]],
   config: {
     opentype: {
       choices: ["ss01|Stylistic Set 1"],
       label: "Opentype features"
+    },
+    alignment: {
+      init: "center"
     }
   }
 };
