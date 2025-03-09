@@ -1,24 +1,24 @@
 /* fonts */
 @font-face {
     font-family: Chough;
-    src: url(assets/Chough-Regular.woff);
+    src: url(/assets/fonts/Chough-Regular.woff);
 }
 
 @font-face {
     font-family: Chough;
-    src: url(assets/Chough-Italic.woff);
+    src: url(/assets/fonts/Chough-Italic.woff);
     font-style: italic;
 }
 
 @font-face {
     font-family: Chough;
-    src: url(assets/Chough-Bold.woff);
+    src: url(/assets/fonts/Chough-Bold.woff);
     font-weight: bold;
 }
 
 @font-face {
     font-family: Chough;
-    src: url(assets/Chough-BoldItalic.woff);
+    src: url(/assets/fonts/Chough-BoldItalic.woff);
     font-weight: bold;
     font-style: italic;
 }
@@ -80,3 +80,4 @@ h1 {
 #content p {
     font-size: 14pt;
 }
+
