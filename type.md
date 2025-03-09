@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Chris Willmore - Type Design
 ---
 
-# Fonts
+# Type Design
 
 These are some fonts:
 - Helvetica
@@ -39,6 +40,14 @@ let fonts = [
   {
     name: "Chough Italic",
     files: ["assets/fonts/Chough-Italic.woff"]
+  },
+  {
+    name: "Chough Bold",
+    files: ["assets/fonts/Chough-Bold.woff"]
+  },
+  {
+    name: "Chough Bold Italic",
+    files: ["assets/fonts/Chough-BoldItalic.woff"]
   },
   {
     name: "Chough Black",
