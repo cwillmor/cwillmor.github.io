@@ -1,0 +1,81 @@
+/* fonts */
+@font-face {
+    font-family: Chough;
+    src: url(assets/Chough-Regular.woff);
+}
+
+@font-face {
+    font-family: Chough;
+    src: url(assets/Chough-Italic.woff);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Chough;
+    src: url(assets/Chough-Bold.woff);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Chough;
+    src: url(assets/Chough-BoldItalic.woff);
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* elements */
+body {
+    font-family: Chough, sans;
+    margin: 0; /* no gap between top and navbar */
+}
+
+h1 {
+}
+
+#navbar {
+    /*background-color: lightgray;*/
+    width: 100%;
+    padding: 10px 0;
+    margin: 0;
+    font-style: italic;
+    border-bottom-width: 1px;
+    border-bottom-style: dashed;
+    border-bottom-color: black;
+    background-color: LightCyan;
+}
+
+#navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+#navbar li.spacer {
+    flex-grow: 1;
+}
+
+#navbar li a {
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+#navbar li a:hover {
+    color: white;
+    background-color: magenta;
+}
+
+#content {
+    width: 80%;
+    margin: auto;
+}
+
+#content h1 {
+    font-size: 32pt;
+}
+
+#content p {
+    font-size: 18pt;
+}
