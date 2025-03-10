@@ -23,14 +23,30 @@
     font-style: italic;
 }
 
+@font-face {
+    font-family: Chough;
+    src: url(/assets/fonts/Chough-Black.woff);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: Chough;
+    src: url(/assets/fonts/Chough-BlackItalic.woff);
+    font-weight: 900;
+    font-style: italic;
+}
+
 /* elements */
 body {
-    font-family: Chough, sans;
+    font-family: Chough, Verdana, sans;
     line-height: 140%;
     margin: 0; /* no gap between top and navbar */
+    color: #000040;
+    background-color: #fffff8;
 }
 
 h1 {
+    font-style: italic;
 }
 
 #navbar {
