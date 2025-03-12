@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<h1>{{ page.font_name }}</h1>
+{{ content }}
+
+<div id="demo"></div>
+
+<script>
+let node = document.getElementById("demo");
+let options = {
+  initialText: "try me on, i’m very you",
+  order: [["fontfamily", "fontsize", "opentype"]],
+  config: {
+    opentype: {
+      choices: [
+        "ss01|Stylistic Set 1"
+      ],
+      label: "Opentype features"
+    },
+    alignment: {
+      init: "center"
+    }
+  }
+};
+let fonts = [
+  {% for style in page.font_styles %}
+    {
+      name: "{{ page.font_name }} {{ style }}",
+      files: ["/assets/fonts/{{ page.font_name }}-{{ style | replace: " ", "" }}.woff"]
+    },
+  {% endfor %}
+];
+new Fontsampler(node, fonts, options).init();
+</script>

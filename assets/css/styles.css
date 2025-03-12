@@ -46,6 +46,27 @@ body {
     background-color: white;
 }
 
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: RoyalBlue;
+}
+
+a:visited {
+    color: RoyalBlue;
+}
+
+tt, code, kbd, samp {
+    font-family: Menlo, "Andale Mono", Courier, fixed;
+    font-size: 90%;
+    background-color: #eee;
+    border-radius: .3em;
+    border-width: thin;
+    border-color: #ccc;
+    border-style: solid;
+    padding: 0 .15em;
+}
+
 h2 {
     margin-top: 1.5em;
 }
@@ -94,6 +115,4 @@ h2 {
 }
 
 #content p {
-    font-size: 14pt;
 }
-

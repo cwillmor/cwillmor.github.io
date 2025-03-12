@@ -2,9 +2,6 @@
 layout: default
 ---
 # Chris Willmore
-566 S. Van Ness Ave. #19  
-San Francisco, CA 94110  
-(408) 219-9866  
 [chris@treedub.org](mailto:chris@treedub.org)
 
 - TODO: add table of contents
@@ -24,6 +21,8 @@ Other experience includes Linux, Apache, Phusion Passenger, Ruby on Rails, RSpec
 
 Fluent in Spanish and Portuguese; some knowledge of French, Italian, German. Experienced in international text issues, including collation, transliteration, tokenization, and layout.
 
+TODO: update skills; think about tier list?
+
 ## Work Experience
 ### [Letterform Archive](https://letterformarchive.org), San Francisco, CA (2025–present)
 #### Teaching Assistant, Type West
@@ -31,24 +30,53 @@ Fluent in Spanish and Portuguese; some knowledge of French, Italian, German. Exp
 ### [Apple Inc.](https://www.apple.com), Cupertino, CA (2007–2025)
 
 #### Software Engineer, Cocoa (2019–2025)
+
+Maintained and extended the text-related components of AppKit (NSTextView, NSTextField, and the NSString/NSAttributedString drawing API) and TextKit 2. Accomplishments include:
+
+- preparing and co-presenting the "[Meet TextKit 2](https://developer.apple.com/videos/play/wwdc2021/10061)" session at WWDC21
+- implementing descender avoidance when drawing underlines in Core Text
+
+Technologies used include Objective-C, Swift, C++, AppKit, Foundation, Core Foundation, Core Graphics, Core Animation, Core Text, Swift, SwiftUI, ICU, and XCTest.
+
 TODO: TextKit experience
-descender avoidance in CoreText
 more work in CoreText, what was it?
 IA line wrapping
 
 #### Software Engineer, iOS Input Experience (2016–2019)
 
-TODO: path keyboard experience (look through old meeting notes)
+Maintained and extended the iOS keyboard and autocorrect system (primarily the QuickPath path-based keyboard). Accomplishments include:
+
+- implementing the backend of the [QuickPath keyboard on iPhone](https://www.youtube.com/watch?v=D2XyP7iUErI), which converts a path traced  by the user's finger into a set of candidate words
+- writing a system for evaluating the quality of the QuickPath keyboard by replaying recorded paths from testers and counting how many of them result in the correct word being inserted into the document
+- writing a system for training the parameters of the autocorrect model using stochastic hill-climbing
+- integrating machine-learning-based typing models into QuickPath
+- improving the autocorrect experience for languages with diacritics and multiple keyboard layouts on iOS, including German, Spanish, and Turkish
+
+Technologies used include C++, Objective-C, UIKit, ICU, Git, Bash, Python, and XCTest.
+
 #### Software Engineer, Developer Tools (2014–2016)
 
-TODO: swift experience
+Maintained and extended the Swift compiler frontend. Accomplishments include:
+
+- improving the reliability of the Swift parser and type checker, and expanding the type checker's regression test suite
+- improving the quality of the Swift compiler's error messages when a program fails to type-check
+- improving the behavior of the Swift parser in interactive contexts, i.e. when parsing code that is in the process of being edited
+- updating the Swift parser and type checker to reflect changes to the language, including changes to syntax, implicit conversions, overload resolution, and generics instantiation
+- improving incremental build times for large Swift projects
+- implementing color and image literals in the Swift parser; this allows programmers to include colors and images directly in their code in Swift Playgrounds
+- integrating the Swift standard libary's `Set` type into the compiler
+- contributing to the Swift interface of Core Graphics
+- implementing built-in functions supporting `os_log` in Clang
+- assisting Swift's transition from an Apple-internal project to an open-source codebase
+
+Technologies used include C++, Swift, Objective-C, LLVM, Clang, LLDB, lit, CMake, and Ninja.
 
 #### Software Engineer, iOS Keyboard and Text (2011–2014)
 
 Maintained and extended the iOS keyboard and autocorrect system. Accomplishments include:
 
 - implementing retrocorrection, which allows autocorrect to change more than one word at a time and correct “well see” to “we’ll see” and “new york” to “New York”
-- implementing next-word candidate generation and UI animation, by collaborating with the Human Interface and Natural Language Processing teams and extending the autocorrection engine
+- integrating next-word prediction and implementing the associated UI
 - implementing French dynamic accent key support
 - implementing input transliteration for Tamil input methods (both Anjal and Tamil 99)
 - writing custom ICU collators for matching user input with autocorrect candidates
@@ -58,9 +86,9 @@ Maintained and extended the iOS keyboard and autocorrect system. Accomplishments
 - fixing several build issues brought about by the autocorrect system’s unique cross-OS needs
 - adding unit tests and supporting code
 
-Technologies used include C, C++, Objective-C, UIKit, Core Foundation, Core Animation, Core Text, Unicode, ICU, Python, Bash, SQLite, Xcode, OCUnit.
+Technologies used include C, C++, Objective-C, UIKit, Core Foundation, Core Graphics, Core Animation, Core Text, Unicode, ICU, Python, Bash, SQLite, Xcode, and OCUnit.
 
-#### Software Engineer, OS X Software Updates Integration (2008–2011)
+#### Software Engineer, OS X Software Updates Integration (summer of 2007; 2008–2011)
 Carried out the dual missions of ensuring the quality of OS X software updates and writing the tools to automate said testing. Quality work includes OS-wide bug diagnosis, manual testing, and bug triage. Tools I contributed to include:
 - an automated pre-submission testing service for OS X software update builds
 - a test results database, consisting of a Rails/PostgreSQL
@@ -80,7 +108,7 @@ Smaller hacks include:
 - work toward a general-purpose random-access compression algorithm (eventual goal is efficient file system compression of very
 large files)
 - a Python bytecode interpreter in Javascript, which allows Python to run in the browser
-- a Cocoa app that periodically prompts users to tell it what they are doing and appends it to that day’s page in their VoodooPad instance.
+- a Cocoa app that periodically prompts users to tell it what they are doing and appends it to that day’s page in their [VoodooPad](https://www.voodoopad.com) instance.
 
 Technologies used in the projects listed above include C, Objective-C, Python,
 Ruby, Bash, PHP, PostgreSQL, MySQL, Ruby on Rails, Sinatra, Lucene, and the
@@ -94,7 +122,7 @@ neutralized the software protections; wrote parts of the floating-point unit
 for an x86 emulator for in-house testing. Worked with C, C++, Python, x86 and
 PowerPC assembly.
 
-### Purdue Genomics Database Facility, West Lafayette, IN (May 2004–May 2006)
+### Purdue Genomics Database Facility, West Lafayette, IN (2004–2006)
 #### Student Programmer / Tester
 Created a wxWidgets-based GUI for a pre-existing program suite for generational
 genetic recombination simulation using Markov chains. Administered Purdue’s
@@ -112,10 +140,28 @@ device line. Wrote a web service which analyzes the testing logs and reports on
 which tests are running into the most trouble. Worked with Python, as well as
 SQLite, wxPython, SAX, and XSLT.
 
-## Education
-### [Type West at Letterform Archive](https://typewest.letterformarchive.org), San Francisco, CA (2024)
+## Patents
+* US-20130321267-A1 "Dynamically Changing a Character Associated with a Key of a Keyboard"
+* US-20130332822-A1 "Multi-Word Autocorrection"
+* US-20150347379-A1 "Device, Method, and Graphical User Interface for a Predictive Keyboard"
+* US-20150347383-A1 "Text Prediction Using Combined Word N-Gram and Unigram Language Models"
+* US-20200356248-A1 "Systems and Methods for Providing Continuous-Path and Delete Key Gestures at a Touch-Sensitive Keyboard"
 
-TODO: describe education
+## Education
+### [Letterform Archive](https://letterformarchive.org), San Francisco, CA (2024)
+
+Completed [Type West](https://typewest.letterformarchive.org), an in-person postgraduate certificate program in type design taught by
+[Maria Doreuli](https://contrastfoundry.com/about),
+[Chris McDonald](http://calligraphybychris.com),
+[Grendl Löfkvist](https://www.writeontheedge.org/faculty/grendl-lofkvist/),
+[Kel Troughton](https://www.keltroughtonstudio.com),
+[Christopher Slye](https://slyetype.com),
+and [Miguel Sousa](https://fonts.adobe.com/designers/miguel-sousa).
+Created the revival "[Reckonly](/fonts/reckonly.html)" and the original type family "[Chough](/fonts/chough.html)" (which you are currently reading!).
+
+### [ILT Academy](https://ilovetypography.com/academy/) (2022)
+
+Completed the online course "Introduction to Latin Type Design" taught by [Malou Verlomme](https://malouverlomme.com). Created the original type family "[Gnawbone](/fonts/gnawbone.html)."
 
 ### [Rensselaer Polytechnic Institute](https://www.rpi.edu), Troy, NY (2006–2008)
 #### Masters in Computer Science
@@ -139,3 +185,4 @@ TODO: music theater resume
 TODO: DJ resume
 TODO: type design resume
 TODO: choral singing
+TODO: google code jam, advent of code
