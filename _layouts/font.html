@@ -10,16 +10,19 @@ layout: default
 let node = document.getElementById("demo");
 let options = {
   initialText: "try me on, i’m very you",
-  order: [["fontfamily", "fontsize", "opentype"]],
+  order: [["fontfamily", "fontsize"]],
   config: {
-    opentype: {
-      choices: [
-        "ss01|Stylistic Set 1"
-      ],
-      label: "Opentype features"
+    //opentype: {
+    //  choices: [
+    //    "ss01|Stylistic Set 1"
+    //  ],
+    //  label: "Opentype features"
+    //},
+    fontfamily: {
+      init: "{{ page.font_name }} {{ page.default_font_style }}"
     },
     alignment: {
-      init: "center"
+      init: "left"
     }
   }
 };
@@ -31,5 +34,7 @@ let fonts = [
     },
   {% endfor %}
 ];
-new Fontsampler(node, fonts, options).init();
+let fs = new Fontsampler(node, fonts, options);
+FontsamplerSkin(fs);
+fs.init();
 </script>

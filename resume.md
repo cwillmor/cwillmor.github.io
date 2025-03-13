@@ -29,18 +29,24 @@ TODO: update skills; think about tier list?
 
 ### [Apple Inc.](https://www.apple.com), Cupertino, CA (2007–2025)
 
-#### Software Engineer, Cocoa (2019–2025)
+#### Software Engineer, [Cocoa](https://en.wikipedia.org/wiki/Cocoa_(API)) (2019–2025)
 
 Maintained and extended the text-related components of AppKit (NSTextView, NSTextField, and the NSString/NSAttributedString drawing API) and TextKit 2. Accomplishments include:
 
-- preparing and co-presenting the "[Meet TextKit 2](https://developer.apple.com/videos/play/wwdc2021/10061)" session at WWDC21
-- implementing descender avoidance when drawing underlines in Core Text
+- integrating TextKit 2 into NSTextView
+- preparing and co-presenting the "[Meet TextKit 2](https://developer.apple.com/videos/play/wwdc2021/10061)" session at [WWDC21](https://developer.apple.com/videos/wwdc2021/)
+- improving the performance of NSTextView when editing large documents
+- improving the way paragraphs are broken into lines in AppKit, by
+  - implementing optimal line breaking in the style of [Knuth-Plass](https://en.wikipedia.org/wiki/Knuth–Plass_line-breaking_algorithm)
+  - implementing balanced line breaking, which puts a roughly equal amount of text on every line of a paragraph, including the last one
+  - tailoring line breaking behavior according to language and context
+- implementing animations and menu items for the [Writing Tools](https://support.apple.com/guide/mac-help/use-writing-tools-mchldcd6c260/mac) feature in AppKit
+- implementing visually contiguous selection and cursor behavior for bidirectional text
+- implementing descender avoidance for underlines in Core Text
+- contributing to [animated text in Messages](https://support.apple.com/guide/messages/format-and-animate-text-icht7316c157/mac)
+- contributing to text drawing and editing in SwiftUI
 
-Technologies used include Objective-C, Swift, C++, AppKit, Foundation, Core Foundation, Core Graphics, Core Animation, Core Text, Swift, SwiftUI, ICU, and XCTest.
-
-TODO: TextKit experience
-more work in CoreText, what was it?
-IA line wrapping
+Worked with Objective-C, Swift, C++, AppKit, Foundation, Core Foundation, Core Graphics, Core Animation, Core Text, Swift, SwiftUI, ICU, and XCTest.
 
 #### Software Engineer, iOS Input Experience (2016–2019)
 
@@ -52,7 +58,7 @@ Maintained and extended the iOS keyboard and autocorrect system (primarily the Q
 - integrating machine-learning-based typing models into QuickPath
 - improving the autocorrect experience for languages with diacritics and multiple keyboard layouts on iOS, including German, Spanish, and Turkish
 
-Technologies used include C++, Objective-C, UIKit, ICU, Git, Bash, Python, and XCTest.
+Worked with C++, Objective-C, UIKit, ICU, Git, Bash, Python, and XCTest.
 
 #### Software Engineer, Developer Tools (2014–2016)
 
@@ -69,7 +75,7 @@ Maintained and extended the Swift compiler frontend. Accomplishments include:
 - implementing built-in functions supporting `os_log` in Clang
 - assisting Swift's transition from an Apple-internal project to an open-source codebase
 
-Technologies used include C++, Swift, Objective-C, LLVM, Clang, LLDB, lit, CMake, and Ninja.
+Worked with C++, Swift, Objective-C, LLVM, Clang, LLDB, lit, CMake, and Ninja.
 
 #### Software Engineer, iOS Keyboard and Text (2011–2014)
 
@@ -86,7 +92,7 @@ Maintained and extended the iOS keyboard and autocorrect system. Accomplishments
 - fixing several build issues brought about by the autocorrect system’s unique cross-OS needs
 - adding unit tests and supporting code
 
-Technologies used include C, C++, Objective-C, UIKit, Core Foundation, Core Graphics, Core Animation, Core Text, Unicode, ICU, Python, Bash, SQLite, Xcode, and OCUnit.
+Worked with C, C++, Objective-C, UIKit, Core Foundation, Core Graphics, Core Animation, Core Text, Unicode, ICU, Python, Bash, SQLite, Xcode, and OCUnit.
 
 #### Software Engineer, OS X Software Updates Integration (summer of 2007; 2008–2011)
 Carried out the dual missions of ensuring the quality of OS X software updates and writing the tools to automate said testing. Quality work includes OS-wide bug diagnosis, manual testing, and bug triage. Tools I contributed to include:
@@ -110,9 +116,8 @@ large files)
 - a Python bytecode interpreter in Javascript, which allows Python to run in the browser
 - a Cocoa app that periodically prompts users to tell it what they are doing and appends it to that day’s page in their [VoodooPad](https://www.voodoopad.com) instance.
 
-Technologies used in the projects listed above include C, Objective-C, Python,
-Ruby, Bash, PHP, PostgreSQL, MySQL, Ruby on Rails, Sinatra, Lucene, and the
-AppleScript Bridge. 
+Worked with C, Objective-C, Python, Ruby, Bash, PHP, PostgreSQL, MySQL, Ruby on
+Rails, Sinatra, Lucene, and the AppleScript Bridge. 
 
 ### Arxan Research, West Lafayette, IN (summer of 2006)
 #### Programmer
@@ -128,7 +133,7 @@ Created a wxWidgets-based GUI for a pre-existing program suite for generational
 genetic recombination simulation using Markov chains. Administered Purdue’s
 local mirror of the Protein Kinase Resource, including extending its
 functionality to support user profiles. Worked with C, C++, Java, Python, Perl,
-Ruby, and Bash, as well as Java JNI, Struts, Hibernate, Ant, Apache Tomcat, and
+Ruby, and Bash, Java JNI, Struts, Hibernate, Ant, Apache Tomcat, and
 Ruby on Rails.
 
 ### Guidant Corporation, St. Paul, MN (summer of 2005; now part of [Boston Scientific](https://www.bostonscientific.com/en-US/home.html))
@@ -137,7 +142,7 @@ Wrote a wxPython-based application to provide an intuitive graphical interface
 for writing requirements-testing procedures for Guidant’s
 programmer-reader-monitor device, which is used to communicate with their heart
 device line. Wrote a web service which analyzes the testing logs and reports on
-which tests are running into the most trouble. Worked with Python, as well as
+which tests are running into the most trouble. Worked with Python, 
 SQLite, wxPython, SAX, and XSLT.
 
 ## Patents
@@ -157,11 +162,11 @@ Completed [Type West](https://typewest.letterformarchive.org), an in-person post
 [Kel Troughton](https://www.keltroughtonstudio.com),
 [Christopher Slye](https://slyetype.com),
 and [Miguel Sousa](https://fonts.adobe.com/designers/miguel-sousa).
-Created the revival "[Reckonly](/fonts/reckonly.html)" and the original type family "[Chough](/fonts/chough.html)" (which you are currently reading!).
+Designed the revival [Reckonly](/fonts/reckonly.html) and the original type family [Chough](/fonts/chough.html) (which you are currently reading!).
 
 ### [ILT Academy](https://ilovetypography.com/academy/) (2022)
 
-Completed the online course "Introduction to Latin Type Design" taught by [Malou Verlomme](https://malouverlomme.com). Created the original type family "[Gnawbone](/fonts/gnawbone.html)."
+Completed the online course "Introduction to Latin Type Design" taught by [Malou Verlomme](https://malouverlomme.com). Designed the original type family [Gnawbone](/fonts/gnawbone.html).
 
 ### [Rensselaer Polytechnic Institute](https://www.rpi.edu), Troy, NY (2006–2008)
 #### Masters in Computer Science
