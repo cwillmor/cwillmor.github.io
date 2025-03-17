@@ -17,3 +17,5 @@ ot_features:
   - name: Stylistic Set 1
     key: ss01
 ---
+
+[Process and specimen](/assets/pdf/Chough-Book.pdf)

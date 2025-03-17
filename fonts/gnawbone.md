@@ -22,3 +22,5 @@ font_styles:
   - Expanded Black Italic
 default_font_style: Regular
 ---
+
+[Specimen](/assets/pdf/Gnawbone-Specimen.pdf)

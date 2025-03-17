@@ -13,3 +13,5 @@ font_styles:
   - Black Lo-Con
 default_font_style: Regular
 ---
+
+[Process and specimen](/assets/pdf/Reckonly-Book.pdf)
