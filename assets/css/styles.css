@@ -74,6 +74,10 @@ h3 + h4 {
     margin-top: -1em;
 }
 
+h4 {
+    font-style: italic;
+}
+
 #navbar {
     width: 100%;
     padding: 10px 0;
@@ -123,3 +127,10 @@ h3 + h4 {
 #content p {
 }
 
+.date {
+    font-size: 90%;
+    font-style: italic;
+    font-weight: normal;
+    color: gray;
+    margin-left: 0.3em;
+}
