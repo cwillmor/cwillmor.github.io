@@ -4,8 +4,32 @@ layout: default
 # Chris Willmore
 [chris@treedub.org](mailto:chris@treedub.org)
 
-- TODO: add table of contents
-- TODO: visualization of career timeline, clickable sections?
+* [Profile](#profile)
+* [Skills](#skills)
+* [Work Experience](#work-experience)
+    * [Letterform Archive](#letterform-archive) (2025–)
+    * [Apple](#apple) (2007–2025)
+        * [Cocoa](#cocoa) (2019–2025)
+        * [iOS Input Experience](#input-experience) (2016–2019)
+        * [Developer Tools](#dev-tools) (2014–2016)
+        * [iOS Keyboards and Text](#kb-text) (2011–2014)
+        * [OS X Software Updates Integration](#sui) (2007–2011)
+    * [Arxan](#arxan) (2006)
+    * [Purdue Genomics Database Facility](#purdue-genomics) (2004–2006)
+    * [Guidant](#guidant) (2005)
+* [Patents](#patents)
+* [Education](#education)
+    * [Letterform Archive](#type-west) (2024)
+    * [ILT Academy](#ilt-academy) (2022)
+    * [RPI](#rpi) (2006–2008)
+    * [Purdue](#purdue) (2002–2006)
+* [Side Gigs](#side-gigs)
+    * [DJ](#dj) (2017–)
+    * [Choral singer](#singing) (2016–)
+    * [Recording engineer](#podcast) (2020–2021)
+    * [Theatrical sound engineer](#theatre) (2018–2020)
+    * [Event planner](#dash) (2015–2017)
+    * [Public speaker](#toastmasters) (2011–2017)
 
 ## Profile
 An experienced software engineer with a strong background in mathematics, computer science, and the practical and theoretical aspects of programming, who wants to build cool things.
@@ -27,12 +51,15 @@ TODO: update skills; think about tier list?
 
 ## Work Experience
 ### [Letterform Archive](https://letterformarchive.org), San Francisco, CA (2025–present)
+{:#letterform-archive}
 #### Teaching Assistant, Type West
 TODO: put under side gigs?
 
 ### [Apple Inc.](https://www.apple.com), Cupertino, CA (2007–2025)
+{:#apple}
 
 #### Software Engineer, [Cocoa](https://en.wikipedia.org/wiki/Cocoa_(API)) (2019–2025)
+{:#cocoa}
 
 Maintained and extended the text-related components of AppKit (NSTextView, NSTextField, and the NSString/NSAttributedString drawing API) and TextKit 2. Accomplishments include:
 
@@ -52,6 +79,7 @@ Maintained and extended the text-related components of AppKit (NSTextView, NSTex
 Worked with Objective-C, Swift, C++, AppKit, Foundation, Core Foundation, Core Graphics, Core Animation, Core Text, Swift, SwiftUI, ICU, and XCTest.
 
 #### Software Engineer, iOS Input Experience (2016–2019)
+{:#input-experience}
 
 Maintained and extended the iOS keyboard and autocorrect system (primarily the QuickPath path-based keyboard). Accomplishments include:
 
@@ -64,6 +92,7 @@ Maintained and extended the iOS keyboard and autocorrect system (primarily the Q
 Worked with C++, Objective-C, UIKit, ICU, Git, Bash, Python, and XCTest.
 
 #### Software Engineer, Developer Tools (2014–2016)
+{:#dev-tools}
 
 Maintained and extended the Swift compiler frontend. Accomplishments include:
 
@@ -81,6 +110,7 @@ Maintained and extended the Swift compiler frontend. Accomplishments include:
 Worked with C++, Swift, Objective-C, LLVM, Clang, LLDB, lit, CMake, and Ninja.
 
 #### Software Engineer, iOS Keyboard and Text (2011–2014)
+{:#kb-text}
 
 Maintained and extended the iOS keyboard and autocorrect system. Accomplishments include:
 
@@ -98,6 +128,8 @@ Maintained and extended the iOS keyboard and autocorrect system. Accomplishments
 Worked with C, C++, Objective-C, UIKit, Core Foundation, Core Graphics, Core Animation, Core Text, Unicode, ICU, Python, Bash, SQLite, Xcode, and OCUnit.
 
 #### Software Engineer, OS X Software Updates Integration (summer of 2007; 2008–2011)
+{:#sui}
+
 Carried out the dual missions of ensuring the quality of OS X software updates and writing the tools to automate said testing. Quality work includes OS-wide bug diagnosis, manual testing, and bug triage. Tools I contributed to include:
 - an automated pre-submission testing service for OS X software update builds
 - a test results database, consisting of a Rails/PostgreSQL
@@ -123,6 +155,7 @@ Worked with C, Objective-C, Python, Ruby, Bash, PHP, PostgreSQL, MySQL, Ruby on
 Rails, Sinatra, Lucene, and the AppleScript Bridge. 
 
 ### Arxan Research, West Lafayette, IN (summer of 2006)
+{:#arxan}
 #### Programmer
 Tested Arxan’s software tamperproofing solutions, including reverse-engineering
 binary x86 and PowerPC code; wrote automated tools to generate patches that
@@ -131,6 +164,7 @@ for an x86 emulator for in-house testing. Worked with C, C++, Python, x86 and
 PowerPC assembly.
 
 ### Purdue Genomics Database Facility, West Lafayette, IN (2004–2006)
+{:#purdue-genomics}
 #### Student Programmer / Tester
 Created a wxWidgets-based GUI for a pre-existing program suite for generational
 genetic recombination simulation using Markov chains. Administered Purdue’s
@@ -140,6 +174,7 @@ Ruby, and Bash, Java JNI, Struts, Hibernate, Ant, Apache Tomcat, and
 Ruby on Rails.
 
 ### Guidant Corporation, St. Paul, MN (summer of 2005; now part of [Boston Scientific](https://www.bostonscientific.com/en-US/home.html))
+{:#guidant}
 #### Programmer, UI Designer
 Wrote a wxPython-based application to provide an intuitive graphical interface
 for writing requirements-testing procedures for Guidant’s
@@ -157,6 +192,7 @@ SQLite, wxPython, SAX, and XSLT.
 
 ## Education
 ### [Letterform Archive](https://letterformarchive.org), San Francisco, CA (2024)
+{:#type-west}
 
 Completed [Type West](https://typewest.letterformarchive.org), an in-person postgraduate certificate program in type design taught by
 [Maria Doreuli](https://contrastfoundry.com/about),
@@ -175,6 +211,7 @@ Designed the revival [Reckonly](/fonts/reckonly.html) and the original type fami
 [Pixelmator Pro](https://www.pixelmator.com/pro/)*
 
 ### [ILT Academy](https://ilovetypography.com/academy/) (2022)
+{:#ilt-academy}
 
 Completed the online course "Introduction to Latin Type Design" taught by [Malou Verlomme](https://malouverlomme.com). Designed the original type family [Gnawbone](/fonts/gnawbone.html).
 *Technologies:
@@ -185,6 +222,7 @@ Completed the online course "Introduction to Latin Type Design" taught by [Malou
 [Pixelmator Pro](https://www.pixelmator.com/pro/)*
 
 ### [Rensselaer Polytechnic Institute](https://www.rpi.edu), Troy, NY (2006–2008)
+{:#rpi}
 #### Masters in Computer Science
 3.33 GPA (cumulative), teaching experience  
 Topics of research: social network analysis, graph clustering algorithms, programming language design  
@@ -192,6 +230,7 @@ Thesis: “Timestamp-Based Correlation Measures for Finding Hidden Groups in Cha
 Member, [Upsilon Pi Epsilon](https://www.cs.rpi.edu/~upe/) (organized biannual programming competition)
 
 ### [Purdue University](https://www.purdue.edu), West Lafayette, IN (2002–2006)
+{:#purdue}
 #### Bachelor of Science with Honors in Computer Science & Mathematics
 3.87 GPA (cumulative), Dean’s List  
 Member, Phi Beta Kappa, Juggling Club, Math Club
@@ -199,6 +238,7 @@ Member, Phi Beta Kappa, Juggling Club, Math Club
 ## Side Gigs
 
 ### DJ (2017–present)
+{:#dj}
 Electronic music DJ performing primarily with the [Ambient Mafia](https://www.ambientmafia.com) DJ collective. Frequent performer and stage manager on the Ambient Mafia's weekly *Sunday Sundowns* show on [Twitch](https://www.twitch.tv/theambientmafia), with more than 160 shows recorded and published on [Mixcloud](https://www.mixcloud.com/treedub/). Coordinated and promoted electronic music events and designed event flyers. Performed at [Asiento](https://asientosf.com), [DNA Lounge](https://www.dnalounge.com), [Hawthorn](https://hawthornsf.com), [Space 550](http://www.space550sf.com), Duende, and various private parties in the Bay Area. *Technologies: [Traktor Pro](https://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-4/), [Rekordbox](https://rekordbox.com/en/),
 [Logic Pro](https://www.apple.com/logic-pro/),
 [Loopback](https://rogueamoeba.com/loopback/),
@@ -208,6 +248,7 @@ Electronic music DJ performing primarily with the [Ambient Mafia](https://www.am
 [Pixelmator Pro](https://www.pixelmator.com/pro/)*
 
 ### Choral singer (2016–present)
+{:#singing}
 Singer for several choirs in the Bay Area, including [Masterworks Chorale](https://masterworksbayarea.org) (2016–2017), [The Choral Project](https://www.choralproject.org) (2017–2021), and the [International Orange Chorale of San Francisco](https://www.iocsf.org) (IOCSF) (2021–present). Bass section leader and concert program designer for IOCSF. Sang in church services at the [Congregational Church of San Mateo](https://ccsm-ucc.org), the [Congregational Church of Sunnyvale](https://www.uccsunnyvale.org), [St. Dominic's Catholic Church](https://stdominics.org) in San Francisco, and [St. Robert's Catholic Church](https://saintroberts-ngp.org) in San Bruno. *Technologies:
 [forScore](https://forscore.co),
 [Logic Pro](https://www.apple.com/logic-pro/),
@@ -215,11 +256,13 @@ Singer for several choirs in the Bay Area, including [Masterworks Chorale](https
 [Pages](https://en.wikipedia.org/wiki/Pages_(word_processor))*
 
 ### Recording engineer (2020–2021)
+{:#podcast}
 Podcast recording engineer for [*No Baton Needed*](https://www.choralproject.org/podcast), a podcast hosted by [Daniel Hughes](https://www.choralproject.org/director) featuring interviews with choral conductors and composers including Stephen Schwartz, Jake Runestad, María Guinand, and Charlene Archibeque. Educated remote interview subjects on proper technique for capturing a high-quality interview recording. Edited, mixed, and mastered recordings and music into the final published podcast. *Technologies:
 [Logic Pro](https://www.apple.com/logic-pro/),
 [Audacity](https://www.audacityteam.org)*
 
 ### Theatrical sound engineer (2018–2020)
+{:#theatre}
 Sound engineer and sound designer for various musical theatre companies in the South Bay. Worked as a sound engineer on *La Cage aux Folles*, [Sunnyvale Community Players](https://www.sunnyvaleplayers.org) (SCP), 2018; *The Full Monty*, [Hillbarn Theatre](https://www.hillbarntheatre.org), 2018; *Spamalot*, [West Valley Light Opera](https://www.wvlo.org) (WVLO), 2018; *42nd St.*, WVLO, 2018; *Big River*, [South Bay Musical Theatre](https://southbaymt.com) (SBMT), 2019; *Thoroughly Modern Millie*, SBMT, 2019; *A Gentleman's Guide to Love and Murder*, SBMT, 2019; and *Urinetown*, SCP, 2019. Worked as a sound designer on *Mame*, SBMT, 2018; *She Loves Me*, SBMT, 2020; and *Once Upon a Mattress*, WVLO, 2020.
 
 Designed sound effects, wrote sound scripts for line-by-line mixing, designed sound reinforcement for the actors and pit orchestra, educated actors on proper mic technique and placement, recorded pre-show announcements, mixed the show's audio live, and diagnosed and fixed sound issues during the show. Wrote a custom markup language for assigning mics to faders in the sound script's text so that the scenes programmed into the mixing console stay in sync with the sound script read by the operator. *Technologies:
@@ -233,7 +276,8 @@ and
 [QLab](https://qlab.app)
 audio software; Python, CSS, and HTML for sound script authoring*
 
-### Puzzle hunt organizer (2015–2017)
+### Event planner (2015–2017)
+{:#dash}
 Lead organizer for the San Francisco running of the [DASH](https://playdash.org) multi-city puzzle hunt in 2015 ([DASH 7](https://playdash.org/DASH7/)) and 2016 (DASH 8). Worldwide lead for [DASH 9](https://playdash.org/DASH9/) in 2017. Recruited and organized event volunteers, scouted and mapped the hunt route, coordinated the story author and puzzle design team and city leads, wrote and tested puzzles, managed the event budget, permits, insurance, promotion, printing, and software stack.
 *Technologies:
 [Google Sheets](https://workspace.google.com/products/sheets/),
@@ -241,6 +285,7 @@ Lead organizer for the San Francisco running of the [DASH](https://playdash.org)
 [Pixelmator Pro](https://www.pixelmator.com/pro/)*
 
 ### Public speaker (2011–2017)
+{:#toastmasters}
 Public speaker and member of [Toastmasters International](https://www.toastmasters.org). Served the [Macintalkers](https://appletoastmasters.com) club as Sergeant-at-Arms, Secretary, VP Membership, VP Education, and President, as well as earning ACS and ALB awards. Organized the schedule for club meetings, liaised with the meeting venue, and led meetings and speech contests. *Technologies:
 [easy-Speak](https://easy-speak.org/portal.php?page=-1&marknow=0)*
 
@@ -250,3 +295,6 @@ Public speaker and member of [Toastmasters International](https://www.toastmaste
 * TODO: google code jam, advent of code
 * TODO: piano? Amateur pianist.
 * TODO: technologies lists should be in little rounded rects instead of italic
+* TODO: better name for "side gigs" section
+* TODO: dates in headlines should be smaller, in italics or gray
+* TODO: put table of contents in a sidebar
