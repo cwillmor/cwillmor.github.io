@@ -166,10 +166,23 @@ Completed [Type West](https://typewest.letterformarchive.org), an in-person post
 [Christopher Slye](https://slyetype.com),
 and [Miguel Sousa](https://fonts.adobe.com/designers/miguel-sousa).
 Designed the revival [Reckonly](/fonts/reckonly.html) and the original type family [Chough](/fonts/chough.html) (which you are currently reading!).
+*Technologies:
+[Glyphs](https://glyphsapp.com),
+[RoboFont](https://robofont.com),
+[Git](https://git-scm.com),
+[Pages](https://en.wikipedia.org/wiki/Pages_(word_processor)),
+[Keynote](https://en.wikipedia.org/wiki/Keynote_(presentation_software)),
+[Pixelmator Pro](https://www.pixelmator.com/pro/)*
 
 ### [ILT Academy](https://ilovetypography.com/academy/) (2022)
 
 Completed the online course "Introduction to Latin Type Design" taught by [Malou Verlomme](https://malouverlomme.com). Designed the original type family [Gnawbone](/fonts/gnawbone.html).
+*Technologies:
+[Glyphs](https://glyphsapp.com),
+[Git](https://git-scm.com),
+[Pages](https://en.wikipedia.org/wiki/Pages_(word_processor)),
+[Keynote](https://en.wikipedia.org/wiki/Keynote_(presentation_software)),
+[Pixelmator Pro](https://www.pixelmator.com/pro/)*
 
 ### [Rensselaer Polytechnic Institute](https://www.rpi.edu), Troy, NY (2006–2008)
 #### Masters in Computer Science
@@ -186,26 +199,51 @@ Member, Phi Beta Kappa, Juggling Club, Math Club
 ## Side Gigs
 
 ### DJ (2017–present)
-Electronic music DJ performing primarily with the [Ambient Mafia](https://www.ambientmafia.com) DJ collective. Frequent performer and stage manager on the Ambient Mafia's weekly *Sunday Sundowns* show on [Twitch](https://www.twitch.tv/theambientmafia), with more than 160 shows recorded and published on [Mixcloud](https://www.mixcloud.com/treedub/). Coordinated and promoted electronic music events and designed event flyers. Performed at [Asiento](https://asientosf.com), [DNA Lounge](https://www.dnalounge.com), [Hawthorn](https://hawthornsf.com), [Space 550](http://www.space550sf.com), Duende, and various private parties in the Bay Area. Technologies used include Traktor Pro, Rekordbox, Logic Pro, Loopback, OBS, Pure Data, [Lumen](https://lumen-app.com), and Pixelmator Pro.
+Electronic music DJ performing primarily with the [Ambient Mafia](https://www.ambientmafia.com) DJ collective. Frequent performer and stage manager on the Ambient Mafia's weekly *Sunday Sundowns* show on [Twitch](https://www.twitch.tv/theambientmafia), with more than 160 shows recorded and published on [Mixcloud](https://www.mixcloud.com/treedub/). Coordinated and promoted electronic music events and designed event flyers. Performed at [Asiento](https://asientosf.com), [DNA Lounge](https://www.dnalounge.com), [Hawthorn](https://hawthornsf.com), [Space 550](http://www.space550sf.com), Duende, and various private parties in the Bay Area. *Technologies: [Traktor Pro](https://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-4/), [Rekordbox](https://rekordbox.com/en/),
+[Logic Pro](https://www.apple.com/logic-pro/),
+[Loopback](https://rogueamoeba.com/loopback/),
+[OBS](https://obsproject.com),
+[Pure Data](https://puredata.info),
+[Lumen](https://lumen-app.com),
+[Pixelmator Pro](https://www.pixelmator.com/pro/)*
 
 ### Choral singer (2016–present)
-Singer for several choirs in the Bay Area, including [Masterworks Chorale](https://masterworksbayarea.org) (2016–2017), [The Choral Project](https://www.choralproject.org) (2017–2021), and the [International Orange Chorale of San Francisco](https://www.iocsf.org) (IOCSF) (2021–present). Bass section leader for IOCSF. Sang in church services at the [Congregational Church of San Mateo](https://ccsm-ucc.org), the [Congregational Church of Sunnyvale](https://www.uccsunnyvale.org), [St. Dominic's Catholic Church](https://stdominics.org) in San Francisco, and [St. Robert's Catholic Church](https://saintroberts-ngp.org) in San Bruno.
+Singer for several choirs in the Bay Area, including [Masterworks Chorale](https://masterworksbayarea.org) (2016–2017), [The Choral Project](https://www.choralproject.org) (2017–2021), and the [International Orange Chorale of San Francisco](https://www.iocsf.org) (IOCSF) (2021–present). Bass section leader and concert program designer for IOCSF. Sang in church services at the [Congregational Church of San Mateo](https://ccsm-ucc.org), the [Congregational Church of Sunnyvale](https://www.uccsunnyvale.org), [St. Dominic's Catholic Church](https://stdominics.org) in San Francisco, and [St. Robert's Catholic Church](https://saintroberts-ngp.org) in San Bruno. *Technologies:
+[forScore](https://forscore.co),
+[Logic Pro](https://www.apple.com/logic-pro/),
+[Musescore](https://musescore.org),
+[Pages](https://en.wikipedia.org/wiki/Pages_(word_processor))*
 
 ### Recording engineer (2020–2021)
-Podcast recording engineer for [No Baton Needed](https://www.choralproject.org/podcast), a podcast hosted by [Daniel Hughes](https://www.choralproject.org/director) featuring interviews with choral conductors and composers including Stephen Schwartz, Jake Runestad, María Guinand, and Charlene Archibeque. Educated remote interview subjects on proper technique for capturing a high-quality interview recording. Edited, mixed, and mastered recordings and music into the final published podcast. Technologies used include Logic Pro, Audacity, and Zoom.
+Podcast recording engineer for [*No Baton Needed*](https://www.choralproject.org/podcast), a podcast hosted by [Daniel Hughes](https://www.choralproject.org/director) featuring interviews with choral conductors and composers including Stephen Schwartz, Jake Runestad, María Guinand, and Charlene Archibeque. Educated remote interview subjects on proper technique for capturing a high-quality interview recording. Edited, mixed, and mastered recordings and music into the final published podcast. *Technologies:
+[Logic Pro](https://www.apple.com/logic-pro/),
+[Audacity](https://www.audacityteam.org)*
 
 ### Theatrical sound engineer (2018–2020)
 Sound engineer and sound designer for various musical theatre companies in the South Bay. Worked as a sound engineer on *La Cage aux Folles*, [Sunnyvale Community Players](https://www.sunnyvaleplayers.org) (SCP), 2018; *The Full Monty*, [Hillbarn Theatre](https://www.hillbarntheatre.org), 2018; *Spamalot*, [West Valley Light Opera](https://www.wvlo.org) (WVLO), 2018; *42nd St.*, WVLO, 2018; *Big River*, [South Bay Musical Theatre](https://southbaymt.com) (SBMT), 2019; *Thoroughly Modern Millie*, SBMT, 2019; *A Gentleman's Guide to Love and Murder*, SBMT, 2019; and *Urinetown*, SCP, 2019. Worked as a sound designer on *Mame*, SBMT, 2018; *She Loves Me*, SBMT, 2020; and *Once Upon a Mattress*, WVLO, 2020.
 
-Designed sound effects, wrote sound scripts for line-by-line mixing, designed sound reinforcement for the actors and pit orchestra, educated actors on proper mic technique and placement, recorded pre-show announcements, mixed the show's audio live, and diagnosed and fixed sound issues during the show. Wrote a custom markup language for assigning mics to faders in the sound script's text so that the scenes programmed into the mixing console stay in sync with the sound script read by the operator. Technologies used include Midas M32, Behringer X32, and Yamaha QL5 mixing consoles; Tracks Live, Audacity, Logic Pro, and QLab audio software; and Python, CSS, and HTML for sound script authoring.
+Designed sound effects, wrote sound scripts for line-by-line mixing, designed sound reinforcement for the actors and pit orchestra, educated actors on proper mic technique and placement, recorded pre-show announcements, mixed the show's audio live, and diagnosed and fixed sound issues during the show. Wrote a custom markup language for assigning mics to faders in the sound script's text so that the scenes programmed into the mixing console stay in sync with the sound script read by the operator. *Technologies: Midas M32, Behringer X32, and Yamaha QL5 mixing consoles;
+[Tracks Live](https://www.waves.com/mixers-racks/tracks-live),
+[Audacity](https://www.audacityteam.org),
+[Logic Pro](https://www.apple.com/logic-pro/),
+and
+[QLab](https://qlab.app)
+audio software; Python, CSS, and HTML for sound script authoring*
+
+### Puzzle hunt organizer (2015–2017)
+Lead organizer for the San Francisco running of the [DASH](https://playdash.org) multi-city puzzle hunt in 2015 ([DASH 7](https://playdash.org/DASH7/)) and 2016 (DASH 8). Worldwide lead for [DASH 9](https://playdash.org/DASH9/) in 2017. Recruited and organized event volunteers, scouted and mapped the hunt route, coordinated the story author and puzzle design team and city leads, wrote and tested puzzles, managed the event budget, permits, insurance, promotion, printing, and software stack.
+*Technologies:
+[Google Sheets](https://workspace.google.com/products/sheets/),
+[ClueKeeper](https://www.cluekeeper.com),
+[Pixelmator Pro](https://www.pixelmator.com/pro/)*
 
 ### Public speaker (2011–2017)
-Public speaker and member of [Toastmasters International](https://www.toastmasters.org). Served the [Macintalkers](https://appletoastmasters.com) club as Sergeant-at-Arms, Secretary, VP Membership, VP Education, and President, as well as earning ACS and ALB awards.
+Public speaker and member of [Toastmasters International](https://www.toastmasters.org). Served the [Macintalkers](https://appletoastmasters.com) club as Sergeant-at-Arms, Secretary, VP Membership, VP Education, and President, as well as earning ACS and ALB awards. Organized the schedule for club meetings, liaised with the meeting venue, and led meetings and speech contests. *Technologies:
+[easy-Speak](https://easy-speak.org/portal.php?page=-1&marknow=0)*
 
-
-
-TODO: design experience section
-
-TODO: type design resume
-TODO: google code jam, advent of code
-TODO: piano? Amateur pianist.
+* TODO: design experience section
+* TODO: use "I" sentences?
+* TODO: type design resume
+* TODO: google code jam, advent of code
+* TODO: piano? Amateur pianist.
+* TODO: technologies lists should be in little rounded rects instead of italic
