@@ -12,6 +12,8 @@ An experienced software engineer with a strong background in mathematics, comput
 
 Areas of interest: typography and type design, programming languages, compilers and interpreters, languages and international support, music and audio, data compression and indexing, statistical language modeling.
 
+TODO: update profile
+
 ## Skills
 Proficient in C, Objective-C, Python, C++, Java, OCaml, Ruby, HTML, CSS, Javascript, Bash. Familiar with Haskell, Perl, Scheme, Lisp, x86 and ARM assembly, XML, XSLT, PHP, Metafont.
 
@@ -26,6 +28,7 @@ TODO: update skills; think about tier list?
 ## Work Experience
 ### [Letterform Archive](https://letterformarchive.org), San Francisco, CA (2025–present)
 #### Teaching Assistant, Type West
+TODO: put under side gigs?
 
 ### [Apple Inc.](https://www.apple.com), Cupertino, CA (2007–2025)
 
@@ -180,14 +183,29 @@ Member, [Upsilon Pi Epsilon](https://www.cs.rpi.edu/~upe/) (organized biannual p
 3.87 GPA (cumulative), Dean’s List  
 Member, Phi Beta Kappa, Juggling Club, Math Club
 
-## Hobbies
-Amateur pianist. Public speaker and member of Toastmasters International since 2011. Served Macintalkers club as Sergeant-at-Arms, Secretary, VP Membership,
-VP Education, and President, as well as earning ACS and ALB awards.
+## Side Gigs
+
+### DJ (2017–present)
+Electronic music DJ performing primarily with the [Ambient Mafia](https://www.ambientmafia.com) DJ collective. Frequent performer and stage manager on the Ambient Mafia's weekly *Sunday Sundowns* show on [Twitch](https://www.twitch.tv/theambientmafia), with more than 160 shows recorded and published on [Mixcloud](https://www.mixcloud.com/treedub/). Coordinated and promoted electronic music events and designed event flyers. Performed at [Asiento](https://asientosf.com), [DNA Lounge](https://www.dnalounge.com), [Hawthorn](https://hawthornsf.com), [Space 550](http://www.space550sf.com), Duende, and various private parties in the Bay Area. Technologies used include Traktor Pro, Rekordbox, Logic Pro, Loopback, OBS, Pure Data, [Lumen](https://lumen-app.com), and Pixelmator Pro.
+
+### Choral singer (2016–present)
+Singer for several choirs in the Bay Area, including [Masterworks Chorale](https://masterworksbayarea.org) (2016–2017), [The Choral Project](https://www.choralproject.org) (2017–2021), and the [International Orange Chorale of San Francisco](https://www.iocsf.org) (IOCSF) (2021–present). Bass section leader for IOCSF. Sang in church services at the [Congregational Church of San Mateo](https://ccsm-ucc.org), the [Congregational Church of Sunnyvale](https://www.uccsunnyvale.org), [St. Dominic's Catholic Church](https://stdominics.org) in San Francisco, and [St. Robert's Catholic Church](https://saintroberts-ngp.org) in San Bruno.
+
+### Recording engineer (2020–2021)
+Podcast recording engineer for [No Baton Needed](https://www.choralproject.org/podcast), a podcast hosted by [Daniel Hughes](https://www.choralproject.org/director) featuring interviews with choral conductors and composers including Stephen Schwartz, Jake Runestad, María Guinand, and Charlene Archibeque. Educated remote interview subjects on proper technique for capturing a high-quality interview recording. Edited, mixed, and mastered recordings and music into the final published podcast. Technologies used include Logic Pro, Audacity, and Zoom.
+
+### Theatrical sound engineer (2018–2020)
+Sound engineer and sound designer for various musical theatre companies in the South Bay. Worked as a sound engineer on *La Cage aux Folles*, [Sunnyvale Community Players](https://www.sunnyvaleplayers.org) (SCP), 2018; *The Full Monty*, [Hillbarn Theatre](https://www.hillbarntheatre.org), 2018; *Spamalot*, [West Valley Light Opera](https://www.wvlo.org) (WVLO), 2018; *42nd St.*, WVLO, 2018; *Big River*, [South Bay Musical Theatre](https://southbaymt.com) (SBMT), 2019; *Thoroughly Modern Millie*, SBMT, 2019; *A Gentleman's Guide to Love and Murder*, SBMT, 2019; and *Urinetown*, SCP, 2019. Worked as a sound designer on *Mame*, SBMT, 2018; *She Loves Me*, SBMT, 2020; and *Once Upon a Mattress*, WVLO, 2020.
+
+Designed sound effects, wrote sound scripts for line-by-line mixing, designed sound reinforcement for the actors and pit orchestra, educated actors on proper mic technique and placement, recorded pre-show announcements, mixed the show's audio live, and diagnosed and fixed sound issues during the show. Wrote a custom markup language for assigning mics to faders in the sound script's text so that the scenes programmed into the mixing console stay in sync with the sound script read by the operator. Technologies used include Midas M32, Behringer X32, and Yamaha QL5 mixing consoles; Tracks Live, Audacity, Logic Pro, and QLab audio software; and Python, CSS, and HTML for sound script authoring.
+
+### Public speaker (2011–2017)
+Public speaker and member of [Toastmasters International](https://www.toastmasters.org). Served the [Macintalkers](https://appletoastmasters.com) club as Sergeant-at-Arms, Secretary, VP Membership, VP Education, and President, as well as earning ACS and ALB awards.
+
+
 
 TODO: design experience section
 
-TODO: music theater resume
-TODO: DJ resume
 TODO: type design resume
-TODO: choral singing
 TODO: google code jam, advent of code
+TODO: piano? Amateur pianist.
