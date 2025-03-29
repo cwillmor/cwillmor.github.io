@@ -135,3 +135,20 @@ h4 {
     color: gray;
     margin-left: 0.3em;
 }
+
+.skills {
+    margin-top: -0.5em;
+    padding: 0;
+}
+
+.skills li {
+    display: inline;
+    font-size: 90%;
+    background-color: #eee;
+    border-radius: .3em;
+    border-width: thin;
+    border-color: #ccc;
+    border-style: none;
+    padding: 0 .15em;
+    font-style: italic;
+}
