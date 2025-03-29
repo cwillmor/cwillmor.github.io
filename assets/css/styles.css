@@ -136,6 +136,14 @@ h4 {
     margin-left: 0.3em;
 }
 
+p .date {
+    margin: 0; /* no extra space for inline dates */
+}
+
+.toc {
+    font-size: 80%;
+}
+
 .skills {
     margin-top: -0.5em;
     padding: 0;

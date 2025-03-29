@@ -30,8 +30,10 @@ layout: default
     * [Theatrical sound engineer](#theatre) <span class="date">2018–2020</span>
     * [Event planner](#dash) <span class="date">2015–2017</span>
     * [Public speaker](#toastmasters) <span class="date">2011–2017</span>
+{:.toc}
 
 ## Profile
+{:#profile}
 An experienced software engineer with a strong background in mathematics, computer science, and the practical and theoretical aspects of programming, who wants to build cool things.
 
 Areas of interest: typography and type design, programming languages, compilers and interpreters, languages and international support, music and audio, data compression and indexing, statistical language modeling.
@@ -39,6 +41,8 @@ Areas of interest: typography and type design, programming languages, compilers 
 TODO: update profile
 
 ## Skills
+{:#skills}
+
 Proficient in C, Objective-C, Python, C++, Java, OCaml, Ruby, HTML, CSS, Javascript, Bash. Familiar with Haskell, Perl, Scheme, Lisp, x86 and ARM assembly, XML, XSLT, PHP, Metafont.
 
 Recent experience includes OS X, iOS, UIKit, Core Animation, Core Text, TextKit, Unicode, ICU, Subversion, Git, SQLite, OCUnit, LLVM, Flex, Bison.
@@ -50,6 +54,7 @@ Fluent in Spanish and Portuguese; some knowledge of French, Italian, German. Exp
 TODO: update skills; think about tier list?
 
 ## Work Experience
+{:#work-experience}
 ### [Letterform Archive](https://letterformarchive.org), San Francisco, CA <span class="date">2025–present</span>
 {:#letterform-archive}
 #### Teaching Assistant, [Type West](https://typewest.letterformarchive.org)
@@ -201,6 +206,7 @@ large files)
 - a Cocoa app that periodically prompts users to tell it what they are doing and appends it to that day’s page in their [VoodooPad](https://www.voodoopad.com) instance.
 {:.accomplishments}
 
+
 * C
 * Objective-C
 * Python
@@ -227,6 +233,8 @@ for an x86 emulator for in-house testing.
 * Python
 * x86 assembly
 * PowerPC assembly
+* OllyDbg
+* IDA Pro
 {:.skills}
 
 ### Purdue Genomics Database Facility, West Lafayette, IN <span class="date">2004–2006</span>
@@ -267,6 +275,7 @@ which tests are running into the most trouble.
 {:.skills}
 
 ## Patents
+{:#patents}
 * US-20130321267-A1 "Dynamically Changing a Character Associated with a Key of a Keyboard"
 * US-20130332822-A1 "Multi-Word Autocorrection"
 * US-20150347379-A1 "Device, Method, and Graphical User Interface for a Predictive Keyboard"
@@ -320,6 +329,7 @@ Member, [Upsilon Pi Epsilon](https://www.cs.rpi.edu/~upe/) (organized biannual p
 Member, Phi Beta Kappa, Juggling Club, Math Club
 
 ## Side Gigs
+{:#side-gigs}
 
 ### DJ <span class="date">2017–present</span>
 {:#dj}
@@ -337,7 +347,11 @@ Electronic music DJ performing primarily with the [Ambient Mafia](https://www.am
 
 ### Choral singer <span class="date">2016–present</span>
 {:#singing}
-Singer for several choirs in the Bay Area, including [Masterworks Chorale](https://masterworksbayarea.org) (2016–2017), [The Choral Project](https://www.choralproject.org) (2017–2021), and the [International Orange Chorale of San Francisco](https://www.iocsf.org) (IOCSF) (2021–present). Bass section leader and concert program designer for IOCSF. Sang in church services at the [Congregational Church of San Mateo](https://ccsm-ucc.org), the [Congregational Church of Sunnyvale](https://www.uccsunnyvale.org), [St. Dominic's Catholic Church](https://stdominics.org) in San Francisco, and [St. Robert's Catholic Church](https://saintroberts-ngp.org) in San Bruno.
+Singer for several choirs in the Bay Area, including
+the [International Orange Chorale of San Francisco](https://www.iocsf.org) (IOCSF) <span class="date">2021–present</span>,
+[The Choral Project](https://www.choralproject.org) <span class="date">2017–2021</span>,
+and
+[Masterworks Chorale](https://masterworksbayarea.org) <span class="date">2016–2017</span>. Bass section leader and concert program designer for IOCSF. Sang in church services at the [Congregational Church of San Mateo](https://ccsm-ucc.org), the [Congregational Church of Sunnyvale](https://www.uccsunnyvale.org), [St. Dominic's Catholic Church](https://stdominics.org) in San Francisco, and [St. Robert's Catholic Church](https://saintroberts-ngp.org) in San Bruno.
 * [forScore](https://forscore.co)
 * [Logic Pro](https://www.apple.com/logic-pro/)
 * [Musescore](https://musescore.org)
@@ -353,7 +367,19 @@ Podcast recording engineer for [*No Baton Needed*](https://www.choralproject.org
 
 ### Theatrical sound engineer <span class="date">2018–2020</span>
 {:#theatre}
-Sound engineer and sound designer for various musical theatre companies in the South Bay. Worked as a sound engineer on *La Cage aux Folles*, [Sunnyvale Community Players](https://www.sunnyvaleplayers.org) (SCP), 2018; *The Full Monty*, [Hillbarn Theatre](https://www.hillbarntheatre.org), 2018; *Spamalot*, [West Valley Light Opera](https://www.wvlo.org) (WVLO), 2018; *42nd St.*, WVLO, 2018; *Big River*, [South Bay Musical Theatre](https://southbaymt.com) (SBMT), 2019; *Thoroughly Modern Millie*, SBMT, 2019; *A Gentleman's Guide to Love and Murder*, SBMT, 2019; and *Urinetown*, SCP, 2019. Worked as a sound designer on *Mame*, SBMT, 2018; *She Loves Me*, SBMT, 2020; and *Once Upon a Mattress*, WVLO, 2020.
+Sound engineer or sound designer on the following Bay Area musical theatre productions:
+
+* *Once Upon a Mattress*, [West Valley Light Opera](https://www.wvlo.org) (WVLO) <span class="date">2020</span>
+* *She Loves Me*, [South Bay Musical Theatre](https://southbaymt.com) (SBMT)<span class="date">2020</span>
+* *Urinetown*, [Sunnyvale Community Players](https://www.sunnyvaleplayers.org) (SCP) <span class="date">2019</span>
+* *A Gentleman's Guide to Love and Murder*, SBMT <span class="date">2019</span>
+* *Thoroughly Modern Millie*, SBMT <span class="date">2019</span>
+* *Big River*, SBMT <span class="date">2019</span>
+* *42nd St.*, WVLO <span class="date">2018</span>
+* *Mame*, SBMT <span class="date">2018</span>
+* *Spamalot*, WVLO <span class="date">2018</span>
+* *The Full Monty*, [Hillbarn Theatre](https://www.hillbarntheatre.org) <span class="date">2018</span>
+* *La Cage aux Folles*, SCP <span class="date">2018</span>
 
 Designed sound effects, wrote sound scripts for line-by-line mixing, designed sound reinforcement for the actors and pit orchestra, educated actors on proper mic technique and placement, recorded pre-show announcements, mixed the show's audio live, and diagnosed and fixed sound issues during the show. Wrote a custom markup language for assigning mics to faders in the sound script's text so that the scenes programmed into the mixing console stay in sync with the sound script read by the operator.
 * [Midas M32](https://www.midasconsoles.com/series.html?category=R-MIDAS-M32SERIES)
@@ -386,7 +412,8 @@ Public speaker and member of [Toastmasters International](https://www.toastmaste
 * TODO: type design resume
 * TODO: google code jam, advent of code
 * TODO: piano? Amateur pianist.
-* TODO: technologies lists should be in little rounded rects instead of italic
-* TODO: better name for "side gigs" section
+* TODO: better name for "side gigs" section -- extra credit, extracurriculars, character building
 * TODO: dates in headlines should be smaller, in italics or gray
 * TODO: put table of contents in a sidebar
+* TODO: is there a way to do the date span tag without putting HTML in the markdown? *italic*{:.date}
+
