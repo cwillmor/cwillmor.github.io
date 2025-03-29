@@ -12,7 +12,7 @@ layout: default
         * [Cocoa](#cocoa) <span class="date">2019–2025</span>
         * [iOS Input Experience](#input-experience) <span class="date">2016–2019</span>
         * [Developer Tools](#dev-tools) <span class="date">2014–2016</span>
-        * [iOS Keyboards and Text](#kb-text) <span class="date">2011–2014</span>
+        * [iOS Keyboard and Text](#kb-text) <span class="date">2011–2014</span>
         * [OS X Software Updates Integration](#sui) <span class="date">2007–2011</span>
     * [Arxan](#arxan) <span class="date">2006</span>
     * [Purdue Genomics Database Facility](#purdue-genomics) <span class="date">2004–2006</span>
@@ -52,7 +52,7 @@ TODO: update skills; think about tier list?
 ## Work Experience
 ### [Letterform Archive](https://letterformarchive.org), San Francisco, CA <span class="date">2025–present</span>
 {:#letterform-archive}
-#### Teaching Assistant, Type West
+#### Teaching Assistant, [Type West](https://typewest.letterformarchive.org)
 TODO: put under side gigs?
 
 ### [Apple Inc.](https://www.apple.com), Cupertino, CA <span class="date">2007–2025</span>
@@ -94,7 +94,7 @@ Worked with C++, Objective-C, UIKit, ICU, Git, Bash, Python, and XCTest.
 #### Software Engineer, Developer Tools <span class="date">2014–2016</span>
 {:#dev-tools}
 
-Maintained and extended the Swift compiler frontend. Accomplishments include:
+Maintained and extended the [Swift](https://www.swift.org) compiler frontend. Accomplishments include:
 
 - improving the reliability of the Swift parser and type checker, and expanding the type checker's regression test suite
 - improving the quality of the Swift compiler's error messages when a program fails to type-check
