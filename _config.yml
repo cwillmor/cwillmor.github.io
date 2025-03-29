@@ -1,1 +1,3 @@
 exclude: ['README.md', 'run_server.sh']
+kramdown:
+  parse_block_html: true
