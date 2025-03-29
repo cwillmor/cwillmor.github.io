@@ -39,6 +39,7 @@
 /* elements */
 body {
     font-family: Chough, Verdana, sans;
+    font-variant-ligatures: discretionary-ligatures;
     font-feature-settings: "ss01" off;
     line-height: 140%;
     margin: 0 10%;
