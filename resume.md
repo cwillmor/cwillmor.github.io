@@ -235,9 +235,21 @@ for an x86 emulator for in-house testing.
 Created a wxWidgets-based GUI for a pre-existing program suite for generational
 genetic recombination simulation using Markov chains. Administered Purdue’s
 local mirror of the Protein Kinase Resource, including extending its
-functionality to support user profiles. Worked with C, C++, Java, Python, Perl,
-Ruby, and Bash, Java JNI, Struts, Hibernate, Ant, Apache Tomcat, and
-Ruby on Rails.
+functionality to support user profiles.
+* C
+* C++
+* Java
+* Python
+* Perl
+* Ruby
+* Bash
+* Java JNI
+* Struts
+* Hibernate
+* Ant
+* Apache Tomcat
+* Ruby on Rails
+{:.skills}
 
 ### Guidant Corporation, St. Paul, MN (now part of [Boston Scientific](https://www.bostonscientific.com/en-US/home.html)) <span class="date">summer of 2005</span>
 {:#guidant}
@@ -246,8 +258,13 @@ Wrote a wxPython-based application to provide an intuitive graphical interface
 for writing requirements-testing procedures for Guidant’s
 programmer-reader-monitor device, which is used to communicate with their heart
 device line. Wrote a web service which analyzes the testing logs and reports on
-which tests are running into the most trouble. Worked with Python, 
-SQLite, wxPython, SAX, and XSLT.
+which tests are running into the most trouble.
+* Python
+* SQLite
+* wxPython
+* SAX
+* XSLT
+{:.skills}
 
 ## Patents
 * US-20130321267-A1 "Dynamically Changing a Character Associated with a Key of a Keyboard"
