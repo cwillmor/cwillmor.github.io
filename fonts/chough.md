@@ -18,7 +18,7 @@ ot_features:
     key: ss01
 ---
 
-**Chough** is a monolinear sans serif with high x-height, a true italic, and support for Latin and Cyrillic scripts. Its subtle curves lend it charm and humor.
+**Chough** (pronounced "chuff") is a monolinear sans serif with high x-height, a true italic, and support for Latin and Cyrillic scripts. Its subtle curves lend it charm and humor.
 
 Chough was my final project for
 [Type West 2024](https://typewest.letterformarchive.org/2024/), taught by Maria Doreuli, Christopher Slye, and Miguel Sousa. You can read the process book and specimen
