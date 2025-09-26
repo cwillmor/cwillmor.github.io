@@ -3,5 +3,6 @@ layout: default
 ---
 # Contact
 
-* [bluesky](https://bsky.app/profile/cwillmore.bsky.social)
-* [email](mailto:chris@treedub.org)
+* [Bluesky](https://bsky.app/profile/cwillmore.bsky.social)
+* [LinkedIn](https://www.linkedin.com/in/cwillmore/)
+* [Email](mailto:chris@treedub.org)

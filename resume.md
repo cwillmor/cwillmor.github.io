@@ -4,6 +4,7 @@ layout: default
 # Chris Willmore
 [chris@treedub.org](mailto:chris@treedub.org)
 
+<!--
 * [Profile](#profile)
 * [Skills](#skills)
 * [Work Experience](#work-experience)
@@ -26,39 +27,43 @@ layout: default
 * [Side Gigs](#side-gigs)
     * [DJ](#dj) <span class="date">2017–</span>
     * [Choral singer](#singing) <span class="date">2016–</span>
+    * [Type designer](#type-designer) <span class="date">2022–</span>
     * [Recording engineer](#podcast) <span class="date">2020–2021</span>
     * [Theatrical sound engineer](#theatre) <span class="date">2018–2020</span>
+    * [Competitive programmer](#competitive-programmer) <span class="date">2010–2020</span>
     * [Event planner](#dash) <span class="date">2015–2017</span>
     * [Public speaker](#toastmasters) <span class="date">2011–2017</span>
 {:.toc}
+-->
 
 ## Profile
 {:#profile}
-An experienced software engineer with a strong background in mathematics, computer science, and the practical and theoretical aspects of programming, who wants to build cool things.
+A senior software engineer with seventeen years of experience delivering key features and API in the Apple ecosystem, and a strong background in type design, music, mathematics, and computer science.
 
-Areas of interest: typography and type design, programming languages, compilers and interpreters, languages and international support, music and audio, data compression and indexing, statistical language modeling.
-
-TODO: update profile
+Areas of interest: typography and type design, music and audio, programming languages, compilers and interpreters, languages and international support, music and audio, data compression and indexing, statistical language modeling.
 
 ## Skills
 {:#skills}
 
-Proficient in C, Objective-C, Python, C++, Java, OCaml, Ruby, HTML, CSS, Javascript, Bash. Familiar with Haskell, Perl, Scheme, Lisp, x86 and ARM assembly, XML, XSLT, PHP, Metafont.
+Proficient in Python, Objective-C, C++, Swift, Bash. Prior experience with Java, OCaml, Ruby, HTML, CSS, Javascript. Familiar with Haskell, Perl, Scheme, Lisp, x86 and ARM assembly, XML, XSLT, PHP, Metafont.
 
-Recent experience includes OS X, iOS, UIKit, Core Animation, Core Text, TextKit, Unicode, ICU, Subversion, Git, SQLite, OCUnit, LLVM, Flex, Bison.
+Recent experience includes macOS, iOS, AppKit, UIKit, Core Animation, Core Text, TextKit, Unicode, ICU, Git, Glyphs, Robofont. Previous professional experience includes Subversion, Git, SQLite, OCUnit, LLVM, Clang, Flex, Bison.
 
 Other experience includes Linux, Apache, Phusion Passenger, Ruby on Rails, RSpec, PostgreSQL, MySQL, Pixelmator, LaTeX, Cocoa, GNU Make, Rake, Bundler, OpenGL. Some experience with Django, Windows, Visual Studio .NET, CVS, wxWidgets, OpenType.
 
-Fluent in Spanish and Portuguese; some knowledge of French, Italian, German. Experienced in international text issues, including collation, transliteration, tokenization, and layout.
-
-TODO: update skills; think about tier list?
+Fluent in written Spanish and Portuguese. Experienced in typography and internationalization, including font design and engineering, line breaking, collation, transliteration, tokenization, text layout, and UI localization. Experienced in search methods for optimization problems including branch-and-bound, gradient descent, and simulated annealing.
 
 ## Work Experience
 {:#work-experience}
 ### [Letterform Archive](https://letterformarchive.org), San Francisco, CA <span class="date">2025–present</span>
 {:#letterform-archive}
 #### Teaching Assistant, [Type West](https://typewest.letterformarchive.org)
-TODO: put under side gigs?
+Facilitate the design classes and weekend workshops for Type West 2025's in-person cohort. Provide students with technical assistance with font-editing software, design critiques, and project guidance.
+
+* Glyphs
+* Robofont
+* Slack
+{:.skills}
 
 ### [Apple Inc.](https://www.apple.com), Cupertino, CA <span class="date">2007–2025</span>
 {:#apple}
@@ -102,7 +107,7 @@ Maintained and extended the text-related components of AppKit (NSTextView, NSTex
 
 Maintained and extended the iOS keyboard and autocorrect system (primarily the QuickPath path-based keyboard). Accomplishments include:
 
-- implementing the backend of the [QuickPath keyboard on iPhone](https://www.youtube.com/watch?v=D2XyP7iUErI), which converts a path traced  by the user's finger into a set of candidate words
+- implementing the recognition algorithm behind the [QuickPath keyboard on iPhone](https://www.youtube.com/watch?v=D2XyP7iUErI), which converts a path traced  by the user's finger into a set of candidate words
 - writing a system for evaluating the quality of the QuickPath keyboard by replaying recorded paths from testers and counting how many of them result in the correct word being inserted into the document
 - writing a system for training the parameters of the autocorrect model using stochastic hill-climbing
 - integrating machine-learning-based typing models into QuickPath
@@ -153,7 +158,7 @@ Maintained and extended the [Swift](https://www.swift.org) compiler frontend. Ac
 Maintained and extended the iOS keyboard and autocorrect system. Accomplishments include:
 
 - implementing retrocorrection, which allows autocorrect to change more than one word at a time and correct “well see” to “we’ll see” and “new york” to “New York”
-- integrating next-word prediction and implementing the associated UI
+- integrating next-word prediction and implementing the associated above-keyboard candidate bar
 - implementing French dynamic accent key support
 - implementing input transliteration for Tamil input methods (both Anjal and Tamil 99)
 - writing custom ICU collators for matching user input with autocorrect candidates
@@ -333,7 +338,7 @@ Member, Phi Beta Kappa, Juggling Club, Math Club
 
 ### DJ <span class="date">2017–present</span>
 {:#dj}
-Electronic music DJ performing primarily with the [Ambient Mafia](https://www.ambientmafia.com) DJ collective. Frequent performer and stage manager on the Ambient Mafia's weekly *Sunday Sundowns* show on [Twitch](https://www.twitch.tv/theambientmafia), with more than 160 shows recorded and published on [Mixcloud](https://www.mixcloud.com/treedub/). Coordinated and promoted electronic music events and designed event flyers. Performed at [Asiento](https://asientosf.com), [DNA Lounge](https://www.dnalounge.com), [Hawthorn](https://hawthornsf.com), [Space 550](http://www.space550sf.com), Duende, and various private parties in the Bay Area.
+Electronic music DJ (stage name: [Treedub](music.html)) performing primarily with the [Ambient Mafia](https://www.ambientmafia.com) DJ collective. Frequent performer and stage manager on the Ambient Mafia's weekly *Sunday Sundowns* show on [Twitch](https://www.twitch.tv/theambientmafia), with more than 160 shows recorded and published on [Mixcloud](https://www.mixcloud.com/treedub/). Coordinated and promoted electronic music events and designed event flyers. Performed at [Asiento](https://asientosf.com), [DNA Lounge](https://www.dnalounge.com), [Hawthorn](https://hawthornsf.com), [Space 550](http://www.space550sf.com), Duende, and various private parties in the Bay Area.
 
 * [Traktor Pro](https://www.native-instruments.com/en/products/traktor/dj-software/traktor-pro-4/)
 * [Rekordbox](https://rekordbox.com/en/)
@@ -349,13 +354,32 @@ Electronic music DJ performing primarily with the [Ambient Mafia](https://www.am
 {:#singing}
 Singer for several choirs in the Bay Area, including
 the [International Orange Chorale of San Francisco](https://www.iocsf.org) (IOCSF) <span class="date">2021–present</span>,
+[LALÒ](https://www.laloensemble.com) <span class="date">2025–present</span>,
 [The Choral Project](https://www.choralproject.org) <span class="date">2017–2021</span>,
 and
-[Masterworks Chorale](https://masterworksbayarea.org) <span class="date">2016–2017</span>. Bass section leader and concert program designer for IOCSF. Sang in church services at the [Congregational Church of San Mateo](https://ccsm-ucc.org), the [Congregational Church of Sunnyvale](https://www.uccsunnyvale.org), [St. Dominic's Catholic Church](https://stdominics.org) in San Francisco, and [St. Robert's Catholic Church](https://saintroberts-ngp.org) in San Bruno.
+[Masterworks Chorale](https://masterworksbayarea.org) <span class="date">2016–2017</span>. Bass section leader and concert program designer for IOCSF. Sang in church services at
+the [Congregational Church of San Mateo](https://ccsm-ucc.org),
+the [Congregational Church of Sunnyvale](https://www.uccsunnyvale.org),
+[St. Dominic's Catholic Church](https://stdominics.org) in San Francisco,
+[St. Robert's Catholic Church](https://saintroberts-ngp.org) in San Bruno,
+and [Willow Glen United Methodist Church](https://wgumc.org/).
 * [forScore](https://forscore.co)
 * [Logic Pro](https://www.apple.com/logic-pro/)
 * [Musescore](https://musescore.org)
 * [Pages](https://en.wikipedia.org/wiki/Pages_(word_processor))
+{:.skills}
+
+### Type designer <span class="date">2022–present</span>
+{:#type-designer}
+Participated in [Fontober](https://www.instagram.com/treedubdesign/), a challenge to draw a new font or expand an existing one every day during the month of October, in 2023 and 2024.
+
+In collaboration with [Looking Up Arts](https://www.lookingup.art), wrote software to convert the outlines of the letters in the ["NO DANCING" sign](https://sfstandard.com/2023/10/29/giant-no-dancing-sign-goes-up-in-golden-gate-park-delighting-crowd/) from cubic splines to [biarcs](https://en.wikipedia.org/wiki/Biarc) and generate an engineering spec sheet. This allowed the project team to fabricate the 12-foot-tall letters out of steel tubing using a manual pipe bender.
+
+* Glyphs
+* Pixelmator Pro
+* Python
+* ReportLab
+* fontTools
 {:.skills}
 
 ### Recording engineer <span class="date">2020–2021</span>
@@ -395,6 +419,13 @@ Designed sound effects, wrote sound scripts for line-by-line mixing, designed so
 * HTML
 {:.skills}
 
+### Competitive programmer <span class="date">2010–2020</span>
+{:#competitive-programmer}
+Participated in [Google Code Jam](https://en.wikipedia.org/wiki/Google_Code_Jam) in 2010 (advancing to round&nbsp;2), 2016 (round&nbsp;3), 2017 (round&nbsp;3), 2018 (round&nbsp;2), 2019 (round&nbsp;3), and 2020 (round&nbsp;2). All solutions were written in Python.
+
+* Python
+{:.skills}
+
 ### Event planner <span class="date">2015–2017</span>
 {:#dash}
 Lead organizer for the San Francisco running of the [DASH](https://playdash.org) multi-city puzzle hunt in 2015 ([DASH 7](https://playdash.org/DASH7/)) and 2016 (DASH 8). Worldwide lead for [DASH 9](https://playdash.org/DASH9/) in 2017. Recruited and organized event volunteers, scouted and mapped the hunt route, coordinated the story author and puzzle design team and city leads, wrote and tested puzzles, managed the event budget, permits, insurance, promotion, printing, and software stack.
@@ -407,6 +438,7 @@ Lead organizer for the San Francisco running of the [DASH](https://playdash.org)
 {:#toastmasters}
 Public speaker and member of [Toastmasters International](https://www.toastmasters.org). Served the [Macintalkers](https://appletoastmasters.com) club as Sergeant-at-Arms, Secretary, VP Membership, VP Education, and President, as well as earning ACS and ALB awards. Organized the schedule for club meetings, liaised with the meeting venue, and led meetings and speech contests.
 
+<!--
 * TODO: design experience section
 * TODO: use "I" sentences?
 * TODO: type design resume
@@ -416,4 +448,4 @@ Public speaker and member of [Toastmasters International](https://www.toastmaste
 * TODO: dates in headlines should be smaller, in italics or gray
 * TODO: put table of contents in a sidebar
 * TODO: is there a way to do the date span tag without putting HTML in the markdown? *italic*{:.date}
-
+-->

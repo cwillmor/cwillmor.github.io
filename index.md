@@ -3,6 +3,5 @@ layout: default
 title: Chris Willmore
 ---
 
-# Chris Willmore
-
-**Chris Willmore** is a onetime *software engineer* and current *designer* and *layabout*. Here is some more text so we can actually reason about paragraph wrapping behavior.
+Hi! I'm **Chris Willmore**, a [software engineer](/resume.html), [type designer](/fonts.html), and [DJ](/music.html) living in San Francisco.
+{: class="main"}

@@ -36,15 +36,161 @@
     font-style: italic;
 }
 
+@font-face {
+    font-family: Reckonly;
+    src: url(/assets/fonts/Reckonly-Regular.woff);
+}
+
+@font-face {
+    font-family: Reckonly;
+    src: url(/assets/fonts/Reckonly-Bold.woff);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Reckonly;
+    src: url(/assets/fonts/Reckonly-Black.woff);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-Regular.woff);
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-Italic.woff);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-Bold.woff);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-BoldItalic.woff);
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-Black.woff);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-BlackItalic.woff);
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-Condensed.woff);
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-CondensedItalic.woff);
+    font-style: italic;
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-CondensedBold.woff);
+    font-weight: bold;
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-CondensedBoldItalic.woff);
+    font-weight: bold;
+    font-style: italic;
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-CondensedBlack.woff);
+    font-weight: 900;
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-CondensedBlackItalic.woff);
+    font-weight: 900;
+    font-style: italic;
+    font-stretch: condensed;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-Expanded.woff);
+    font-stretch: expanded;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-ExpandedItalic.woff);
+    font-style: italic;
+    font-stretch: expanded;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-ExpandedBold.woff);
+    font-weight: bold;
+    font-stretch: expanded;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-ExpandedBoldItalic.woff);
+    font-weight: bold;
+    font-style: italic;
+    font-stretch: expanded;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-ExpandedBlack.woff);
+    font-weight: 900;
+    font-stretch: expanded;
+}
+
+@font-face {
+    font-family: Gnawbone;
+    src: url(/assets/fonts/Gnawbone-CondensedBlackItalic.woff);
+    font-weight: 900;
+    font-style: italic;
+    font-stretch: expanded;
+}
+
 /* elements */
 body {
     font-family: Chough, Verdana, sans;
     font-variant-ligatures: discretionary-ligatures;
     font-feature-settings: "ss01" off;
     line-height: 140%;
-    margin: 0 10%;
+    margin: 0 0;
     color: black;
     background-color: white;
+}
+
+.main {
+    font-size: 36pt;
+    line-height: 140%;
+    text-align: center;
 }
 
 a {
@@ -159,4 +305,18 @@ p .date {
     border-style: none;
     padding: 0 .15em;
     font-style: italic;
+}
+
+.font-line {
+    /* TODO: finish this stuff out. good inspo for specimen page: https://www.allcapstype.com/typefaces/youth */
+    text-wrap-mode: nowrap;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40pt;
+    line-height: 100%;
+    text-align: center;
+}
+
+iframe {
+    margin-bottom: 2em; /* separate soundcloud iframes a bit */
 }
