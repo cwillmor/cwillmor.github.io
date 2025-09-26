@@ -298,7 +298,7 @@ Completed [Type West](https://typewest.letterformarchive.org), an in-person post
 [Kel Troughton](https://www.keltroughtonstudio.com),
 [Christopher Slye](https://slyetype.com),
 and [Miguel Sousa](https://fonts.adobe.com/designers/miguel-sousa).
-Designed the revival [Reckonly](/fonts/reckonly.html) and the original type family [Chough](/fonts/chough.html) (which you are currently reading!).
+Designed the revival [Reckonly](/fonts/reckonly.html) and the original type family [Chough](/fonts/chough.html).
 * [Glyphs](https://glyphsapp.com)
 * [RoboFont](https://robofont.com)
 * [Git](https://git-scm.com)

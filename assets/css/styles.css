@@ -37,6 +37,43 @@
 }
 
 @font-face {
+    font-family: Fretless;
+    src: url(/assets/fonts/Fretless-Regular.woff);
+}
+
+@font-face {
+    font-family: Fretless;
+    src: url(/assets/fonts/Fretless-Italic.woff);
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Fretless;
+    src: url(/assets/fonts/Fretless-Bold.woff);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Fretless;
+    src: url(/assets/fonts/Fretless-BoldItalic.woff);
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Fretless;
+    src: url(/assets/fonts/Fretless-Black.woff);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: Fretless;
+    src: url(/assets/fonts/Fretless-BlackItalic.woff);
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
     font-family: Reckonly;
     src: url(/assets/fonts/Reckonly-Regular.woff);
 }
@@ -178,7 +215,7 @@
 
 /* elements */
 body {
-    font-family: Chough, Verdana, sans;
+    font-family: Fretless, Verdana, sans;
     font-variant-ligatures: discretionary-ligatures;
     font-feature-settings: "ss01" off;
     line-height: 140%;
@@ -188,6 +225,7 @@ body {
 }
 
 .main {
+    font-family: Chough;
     font-size: 36pt;
     line-height: 140%;
     text-align: center;
@@ -213,6 +251,10 @@ tt, code, kbd, samp {
     padding: 0 .15em;
 }
 
+h1, h2, h3, h4 {
+    font-family: Chough;
+}
+
 h2 {
     margin-top: 1.5em;
 }
@@ -233,6 +275,7 @@ h4 {
     border-bottom-style: dashed;
     border-bottom-color: black;
     background-color: LightCyan;
+    font-family: Chough;
 }
 
 #navbar ul {
@@ -275,6 +318,7 @@ h4 {
 }
 
 .date {
+    font-family: Chough;
     font-size: 90%;
     font-style: italic;
     font-weight: normal;
