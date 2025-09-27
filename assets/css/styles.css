@@ -318,7 +318,7 @@ h4 {
 }
 
 .date {
-    font-family: Chough;
+    font-family: Chough, Verdana, sans-serif;
     font-size: 90%;
     font-style: italic;
     font-weight: normal;
