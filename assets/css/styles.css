@@ -215,7 +215,7 @@
 
 /* elements */
 body {
-    font-family: Fretless, Verdana, sans;
+    font-family: Fretless, "Times New Roman", serif;
     font-variant-ligatures: discretionary-ligatures;
     font-feature-settings: "ss01" off;
     line-height: 140%;
@@ -225,7 +225,7 @@ body {
 }
 
 .main {
-    font-family: Chough;
+    font-family: Chough, Verdana, sans-serif;
     font-size: 36pt;
     line-height: 140%;
     text-align: center;
@@ -252,7 +252,7 @@ tt, code, kbd, samp {
 }
 
 h1, h2, h3, h4 {
-    font-family: Chough;
+    font-family: Chough, Verdana, sans-serif;
 }
 
 h2 {
@@ -275,7 +275,7 @@ h4 {
     border-bottom-style: dashed;
     border-bottom-color: black;
     background-color: LightCyan;
-    font-family: Chough;
+    font-family: Chough, Verdana, sans-serif;
 }
 
 #navbar ul {
