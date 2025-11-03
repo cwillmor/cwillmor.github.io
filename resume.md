@@ -371,7 +371,7 @@ and [Willow Glen United Methodist Church](https://wgumc.org/).
 
 ### Type designer <span class="date">2022–present</span>
 {:#type-designer}
-Participated in [Fontober](https://www.instagram.com/treedubdesign/), a challenge to draw a new font or expand an existing one every day during the month of October, in 2023 and 2024.
+Participated in [Fontober](https://www.instagram.com/treedubdesign/), a challenge to draw a new font or expand an existing one every day during the month of October, in 2023, 2024, and 2025.
 
 In collaboration with [Looking Up Arts](https://www.lookingup.art), wrote software to convert the outlines of the letters in the ["NO DANCING" sign](https://sfstandard.com/2023/10/29/giant-no-dancing-sign-goes-up-in-golden-gate-park-delighting-crowd/) from cubic splines to [biarcs](https://en.wikipedia.org/wiki/Biarc) and generate an engineering spec sheet. This allowed the project team to fabricate the 12-foot-tall letters out of steel tubing using a manual pipe bender.
 
