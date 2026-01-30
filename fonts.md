@@ -31,7 +31,8 @@ title: Chris Willmore - Type Design
 -->
 
 I designed the following fonts:
-- [Fretless](/fonts/fretless.html) (2025)
+- [Persi](/fonts/persi.html) (2026)
+- [Fretless](/fonts/fretless.html) (2025-2026)
 - [Chough](/fonts/chough.html) (2024)
 <!-- - [Fontober 2024](/fonts/fontober2024.html) -->
 - [Reckonly](/fonts/reckonly.html) (2024)

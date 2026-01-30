@@ -67,10 +67,32 @@
 }
 
 @font-face {
-    font-family: Fretless;
-    src: url(/assets/fonts/Fretless-BlackItalic.woff);
+    font-family: Persi;
+    src: url(/assets/fonts/Persi-Light.woff);
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: Persi;
+    src: url(/assets/fonts/Persi-Regular.woff);
+}
+
+@font-face {
+    font-family: Persi;
+    src: url(/assets/fonts/Persi-Bold.woff);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: Persi;
+    src: url(/assets/fonts/Persi-ExtraBold.woff);
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: Persi;
+    src: url(/assets/fonts/Persi-Black.woff);
     font-weight: 900;
-    font-style: italic;
 }
 
 @font-face {
