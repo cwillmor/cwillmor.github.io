@@ -58,7 +58,7 @@ Fluent in written Spanish and Portuguese. Experienced in typography and internat
 ### [Letterform Archive](https://letterformarchive.org), San Francisco, CA <span class="date">2025</span>
 {:#letterform-archive}
 #### Teaching Assistant, [Type West](https://typewest.letterformarchive.org)
-Facilitate the design classes and weekend workshops for Type West 2025's in-person cohort. Provide students with technical assistance with font-editing software, design critiques, and project guidance.
+Facilitated the design classes and weekend workshops for Type West 2025's in-person cohort. Provided students with technical assistance with font-editing software, design critiques, and project guidance.
 
 * Glyphs
 * Robofont
