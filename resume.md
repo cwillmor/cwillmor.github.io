@@ -8,7 +8,7 @@ layout: default
 * [Profile](#profile)
 * [Skills](#skills)
 * [Work Experience](#work-experience)
-    * [Letterform Archive](#letterform-archive) <span class="date">2025–</span>
+    * [Letterform Archive](#letterform-archive) <span class="date">2025</span>
     * [Apple](#apple) <span class="date">2007–2025</span>
         * [Cocoa](#cocoa) <span class="date">2019–2025</span>
         * [iOS Input Experience](#input-experience) <span class="date">2016–2019</span>
@@ -55,7 +55,7 @@ Fluent in written Spanish and Portuguese. Experienced in typography and internat
 
 ## Work Experience
 {:#work-experience}
-### [Letterform Archive](https://letterformarchive.org), San Francisco, CA <span class="date">2025–present</span>
+### [Letterform Archive](https://letterformarchive.org), San Francisco, CA <span class="date">2025</span>
 {:#letterform-archive}
 #### Teaching Assistant, [Type West](https://typewest.letterformarchive.org)
 Facilitate the design classes and weekend workshops for Type West 2025's in-person cohort. Provide students with technical assistance with font-editing software, design critiques, and project guidance.
