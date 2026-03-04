@@ -1,4 +1,6 @@
-rm -rf _otf _woff
+#!/bin/bash
+
+rm -rf _otf
 
 function die {
     echo "error: $@" >&2
@@ -12,6 +14,7 @@ function log {
 
 glyphs_files=(
     ~/git/bodonito/bodonito.glyphs # persi
+    ~/git/bodonito/bodonito-italic.glyphs # persi italic
     ~/git/fretless/fretless.glyphs
     ~/git/fretless/fretless-italic.glyphs
     ~/git/nuclears/nuclears.glyphs # chough

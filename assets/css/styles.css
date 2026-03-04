@@ -74,7 +74,20 @@
 
 @font-face {
     font-family: Persi;
+    src: url(/assets/fonts/Persi-LightItalic.woff);
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Persi;
     src: url(/assets/fonts/Persi-Regular.woff);
+}
+
+@font-face {
+    font-family: Persi;
+    src: url(/assets/fonts/Persi-Italic.woff);
+    font-style: italic;
 }
 
 @font-face {
@@ -85,14 +98,35 @@
 
 @font-face {
     font-family: Persi;
+    src: url(/assets/fonts/Persi-BoldItalic.woff);
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Persi;
     src: url(/assets/fonts/Persi-ExtraBold.woff);
     font-weight: 800;
 }
 
 @font-face {
     font-family: Persi;
+    src: url(/assets/fonts/Persi-ExtraBoldItalic.woff);
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Persi;
     src: url(/assets/fonts/Persi-Black.woff);
     font-weight: 900;
+}
+
+@font-face {
+    font-family: Persi;
+    src: url(/assets/fonts/Persi-BlackItalic.woff);
+    font-weight: 900;
+    font-style: italic;
 }
 
 @font-face {
