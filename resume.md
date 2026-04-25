@@ -299,6 +299,7 @@ Completed [Type West](https://typewest.letterformarchive.org), an in-person post
 [Christopher Slye](https://slyetype.com),
 and [Miguel Sousa](https://fonts.adobe.com/designers/miguel-sousa).
 Designed the revival [Reckonly](/fonts/reckonly.html) and the original type family [Chough](/fonts/chough.html).
+Featured on Letterform Archive's [Type West Alumni Spotlight](https://letterformarchive.org/news/type-west-alumni-spotlight-2024-2025/).
 * [Glyphs](https://glyphsapp.com)
 * [RoboFont](https://robofont.com)
 * [Git](https://git-scm.com)
